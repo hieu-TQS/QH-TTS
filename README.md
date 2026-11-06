@@ -28,6 +28,12 @@ Phần mềm giúp bạn nhập văn bản và xuất file âm thanh giọng nó
 3. Chọn giọng nói hoặc clone từ audio mẫu.
 4. Nhấn tạo âm thanh và lưu file.
 
+## Model hỗ trợ
+
+- VieNeu-TTS-v3-Turbo (int8 · nhanh)
+- VieNeu-TTS-v3-Turbo (fp32 · chất lượng cao)
+- ZeroTTS (CPU)
+
 ## Giấy phép
 
 Apache 2.0 — sử dụng tự do.
