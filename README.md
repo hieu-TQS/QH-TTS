@@ -19,17 +19,7 @@ Phần mềm giúp bạn nhập văn bản và xuất file âm thanh giọng nó
 ## Yêu cầu
 
 - Windows 10/11
-- Python 3.10+
-- (Tùy chọn) GPU để tăng tốc xử lý
-
-## Cài đặt nhanh
-
-```bash
-git clone https://github.com/hieu-TQS/QH-TTS.git
-cd QH-TTS
-pip install -r requirements.txt
-python app_gui.py
-```
+- RAM trên 8Gb
 
 ## Sử dụng
 
